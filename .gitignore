@@ -1,0 +1,8 @@
+.env
+*.env
+*.log
+footage/
+fotos/
+out/
+voz/
+voz-testes/
